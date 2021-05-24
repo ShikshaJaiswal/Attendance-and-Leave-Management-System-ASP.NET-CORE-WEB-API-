@@ -1,0 +1,1694 @@
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\appsettings.json
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.exe
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.deps.json
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.runtimeconfig.json
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.runtimeconfig.dev.json
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\ref\ALMS.UI.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.pdb
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.Views.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.Views.pdb
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.AssemblyInfo.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorAssemblyInfo.cache
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorAssemblyInfo.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\staticwebassets\ALMS.UI.StaticWebAssets.Manifest.cache
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\staticwebassets\ALMS.UI.StaticWebAssets.xml
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\scopedcss\bundle\ALMS.UI.styles.css
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.TagHelpers.input.cache
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.TagHelpers.output.cache
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorCoreGenerate.cache
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorTargetAssemblyInfo.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.Views.pdb
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\ref\ALMS.UI.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.pdb
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.genruntimeconfig.cache
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.csproj.CopyComplete
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.API.exe
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.API.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.API.pdb
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\ManagerPortal.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\AdminPortal.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\GEmployeePortal.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\ProjectIndex.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\ProjectDetails.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\CreateProject.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\DeleteProject.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\EditProject.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\LeaveRequestDetails.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\CreateLeaveRequest.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\DeleteLeaveRequest.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\LeaveRequestIndexManager.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\LeaveRequestIndexAdmin.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\LeaveRequestIndexGEmployee.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\CreateAttendanceRequest.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\DeleteAttendance.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\EditAttendance.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\EmployeeIndex.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\EmployeeDetails.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\CreateEmployee.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\DeleteEmployee.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\EditEmployee.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\AttendanceIndex.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\AttendanceDetails.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\appsettings.json
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.API.deps.json
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.API.runtimeconfig.json
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.API.runtimeconfig.dev.json
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.API.exe
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.exe
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.deps.json
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.runtimeconfig.json
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.runtimeconfig.dev.json
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\ref\ALMS.UI.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.pdb
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.Views.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.Views.pdb
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.API.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.API.pdb
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.csprojAssemblyReference.cache
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.AssemblyInfoInputs.cache
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.AssemblyInfo.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.csproj.CoreCompileInputs.cache
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorAssemblyInfo.cache
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorAssemblyInfo.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\staticwebassets\ALMS.UI.StaticWebAssets.Manifest.cache
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\staticwebassets\ALMS.UI.StaticWebAssets.xml
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\scopedcss\bundle\ALMS.UI.styles.css
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.TagHelpers.input.cache
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.TagHelpers.output.cache
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorCoreGenerate.cache
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\AdminPortal.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\GEmployeePortal.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\ManagerPortal.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\AttendanceDetails.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\AttendanceIndex.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\CreateAttendanceRequest.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\DeleteAttendance.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\EditAttendance.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\CreateEmployee.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\DeleteEmployee.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\EditEmployee.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\EmployeeDetails.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\EmployeeIndex.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\CreateLeaveRequest.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\DeleteLeaveRequest.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\EditLeaveRequest.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\LeaveRequestDetails.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\LeaveRequestIndexAdmin.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\LeaveRequestIndexGEmployee.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\LeaveRequestIndexManager.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\CreateProject.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\DeleteProject.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\EditProject.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\ProjectDetails.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\ProjectIndex.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorTargetAssemblyInfo.cache
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorTargetAssemblyInfo.cs
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.Views.pdb
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.csproj.CopyComplete
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\ref\ALMS.UI.dll
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.pdb
+C:\Users\Shivam Magotra\Downloads\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.genruntimeconfig.cache
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\appsettings.json
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.API.exe
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.exe
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.deps.json
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.runtimeconfig.json
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\ref\ALMS.UI.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.pdb
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.Views.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.Views.pdb
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.API.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.API.pdb
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.AssemblyInfo.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorAssemblyInfo.cache
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorAssemblyInfo.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\staticwebassets\ALMS.UI.StaticWebAssets.Manifest.cache
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\staticwebassets\ALMS.UI.StaticWebAssets.xml
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\scopedcss\bundle\ALMS.UI.styles.css
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.TagHelpers.input.cache
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.TagHelpers.output.cache
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorCoreGenerate.cache
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\AdminPortal.cshtml.g.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\GEmployeePortal.cshtml.g.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\ManagerPortal.cshtml.g.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\AttendanceDetails.cshtml.g.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\AttendanceIndex.cshtml.g.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\CreateAttendanceRequest.cshtml.g.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\DeleteAttendance.cshtml.g.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\EditAttendance.cshtml.g.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\CreateEmployee.cshtml.g.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\DeleteEmployee.cshtml.g.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\EditEmployee.cshtml.g.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\EmployeeDetails.cshtml.g.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\EmployeeIndex.cshtml.g.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\CreateLeaveRequest.cshtml.g.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\DeleteLeaveRequest.cshtml.g.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\EditLeaveRequest.cshtml.g.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\LeaveRequestDetails.cshtml.g.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\LeaveRequestIndexAdmin.cshtml.g.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\LeaveRequestIndexGEmployee.cshtml.g.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\LeaveRequestIndexManager.cshtml.g.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\CreateProject.cshtml.g.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\DeleteProject.cshtml.g.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\EditProject.cshtml.g.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\ProjectDetails.cshtml.g.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\ProjectIndex.cshtml.g.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorTargetAssemblyInfo.cs
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.Views.pdb
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.csproj.CopyComplete
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\ref\ALMS.UI.dll
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.pdb
+C:\Users\hp\Desktop\Shivam's work\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.genruntimeconfig.cache
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\EditLeaveRequest.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\AttendanceIndexAdmin.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\AttendanceIndexManager.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\ProjectAllocation\AllocateProject.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\appsettings.json
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\ALMS.API.exe
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\ALMS.UI.exe
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\ALMS.UI.deps.json
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\ALMS.UI.runtimeconfig.json
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\ALMS.UI.runtimeconfig.dev.json
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\ALMS.UI.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\ref\ALMS.UI.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\ALMS.UI.pdb
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\ALMS.UI.Views.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\ALMS.UI.Views.pdb
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\ALMS.API.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\bin\Debug\net5.0\ALMS.API.pdb
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\ALMS.UI.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\ALMS.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\ALMS.UI.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\ALMS.UI.AssemblyInfo.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\ALMS.UI.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\ALMS.UI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\ALMS.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorAssemblyInfo.cache
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorAssemblyInfo.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\staticwebassets\ALMS.UI.StaticWebAssets.Manifest.cache
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\staticwebassets\ALMS.UI.StaticWebAssets.xml
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\scopedcss\bundle\ALMS.UI.styles.css
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\ALMS.UI.TagHelpers.input.cache
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\ALMS.UI.TagHelpers.output.cache
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorCoreGenerate.cache
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\AdminPortal.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\GEmployeePortal.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\ManagerPortal.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\AttendanceDetails.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\AttendanceIndex.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\AttendanceIndexAdmin.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\AttendanceIndexManager.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\CreateAttendanceRequest.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\DeleteAttendance.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\EditAttendance.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\CreateEmployee.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\DeleteEmployee.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\EditEmployee.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\EmployeeDetails.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\EmployeeIndex.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\CreateLeaveRequest.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\DeleteLeaveRequest.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\EditLeaveRequest.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\LeaveRequestDetails.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\LeaveRequestIndexAdmin.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\LeaveRequestIndexManager.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\ProjectAllocation\AllocateProject.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\CreateProject.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\DeleteProject.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\EditProject.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\ProjectDetails.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\ProjectIndex.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorTargetAssemblyInfo.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\ALMS.UI.Views.pdb
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\ALMS.UI.csproj.CopyComplete
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\ALMS.UI.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\ref\ALMS.UI.dll
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\ALMS.UI.pdb
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\ALMS.UI.genruntimeconfig.cache
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\ProjectWorkStation.cshtml.g.cs
+C:\Users\hp\Desktop\major project\ALMS - Copy\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\ProjectLogin.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\appsettings.json
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.API.exe
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.exe
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.deps.json
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.runtimeconfig.json
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\ref\ALMS.UI.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.pdb
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.Views.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.Views.pdb
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.API.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.API.pdb
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.AssemblyInfo.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorAssemblyInfo.cache
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorAssemblyInfo.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\staticwebassets\ALMS.UI.StaticWebAssets.Manifest.cache
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\staticwebassets\ALMS.UI.StaticWebAssets.xml
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\scopedcss\bundle\ALMS.UI.styles.css
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.TagHelpers.input.cache
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.TagHelpers.output.cache
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorCoreGenerate.cache
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\AdminPortal.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\GEmployeePortal.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\ManagerPortal.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\ProjectLogin.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\AttendanceDetails.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\AttendanceIndex.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\AttendanceIndexAdmin.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\AttendanceIndexManager.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\CreateAttendanceRequest.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\DeleteAttendance.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\EditAttendance.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\CreateEmployee.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\EditEmployee.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\EmployeeDetails.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\EmployeeIndex.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\CreateLeaveRequest.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\DeleteLeaveRequest.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\EditLeaveRequest.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\LeaveRequestDetails.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\LeaveRequestIndexAdmin.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\LeaveRequestIndexManager.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\CreateProject.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\DeleteProject.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\EditProject.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\ProjectDetails.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\ProjectIndex.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\ProjectWorkStation.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorTargetAssemblyInfo.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.Views.pdb
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.csproj.CopyComplete
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\ref\ALMS.UI.dll
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.pdb
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.genruntimeconfig.cache
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\ProjectAllocation\AddAllocateProjectAllocation.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\ProjectAllocation\ProjectAllocationIndex.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\ProjectAllocation\DeleteProjectAllocationDetails.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\ProjectAllocation\EditProjectAllocationDetails.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\ProjectAllocation\ProjectAllocationDetails.cshtml.g.cs
+C:\Users\hp\Desktop\Final\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\DeleteEmployee.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\appsettings.json
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.API.deps.json
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.API.runtimeconfig.json
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.API.runtimeconfig.dev.json
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.API.exe
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.exe
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.deps.json
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.runtimeconfig.json
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.runtimeconfig.dev.json
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\ref\ALMS.UI.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.pdb
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.Views.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.Views.pdb
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.API.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.API.pdb
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.csprojAssemblyReference.cache
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.AssemblyInfoInputs.cache
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.AssemblyInfo.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.csproj.CoreCompileInputs.cache
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorAssemblyInfo.cache
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorAssemblyInfo.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\staticwebassets\ALMS.UI.StaticWebAssets.Manifest.cache
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\staticwebassets\ALMS.UI.StaticWebAssets.xml
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\scopedcss\bundle\ALMS.UI.styles.css
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.TagHelpers.input.cache
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.TagHelpers.output.cache
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorCoreGenerate.cache
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\AdminPortal.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\GEmployeePortal.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\ManagerPortal.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\ProjectLogin.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\AttendanceDetails.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\AttendanceIndex.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\AttendanceIndexAdmin.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\AttendanceIndexManager.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\CreateAttendanceRequest.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\DeleteAttendance.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\EditAttendance.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\CreateEmployee.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\DeleteEmployee.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\EditEmployee.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\EmployeeDetails.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\EmployeeIndex.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\CreateLeaveRequest.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\DeleteLeaveRequest.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\EditLeaveRequest.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\LeaveRequestDetails.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\LeaveRequestIndexAdmin.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\LeaveRequestIndexManager.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\ProjectAllocation\AddAllocateProjectAllocation.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\ProjectAllocation\DeleteProjectAllocationDetails.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\ProjectAllocation\EditProjectAllocationDetails.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\ProjectAllocation\ProjectAllocationDetails.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\ProjectAllocation\ProjectAllocationIndex.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\CreateProject.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\DeleteProject.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\EditProject.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\ProjectDetails.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\ProjectIndex.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\ProjectWorkStation.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorTargetAssemblyInfo.cache
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorTargetAssemblyInfo.cs
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.Views.pdb
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.csproj.CopyComplete
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\ref\ALMS.UI.dll
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.pdb
+C:\Users\Astha\Pictures\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.genruntimeconfig.cache
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\appsettings.json
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.API.exe
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.exe
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.deps.json
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.runtimeconfig.json
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ref\ALMS.UI.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.pdb
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.Views.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.Views.pdb
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.API.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.API.pdb
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.AssemblyInfo.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorAssemblyInfo.cache
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorAssemblyInfo.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\staticwebassets\ALMS.UI.StaticWebAssets.Manifest.cache
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\staticwebassets\ALMS.UI.StaticWebAssets.xml
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\scopedcss\bundle\ALMS.UI.styles.css
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.TagHelpers.input.cache
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.TagHelpers.output.cache
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorCoreGenerate.cache
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\AdminPortal.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\GEmployeePortal.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\ManagerPortal.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\ProjectLogin.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\AttendanceDetails.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\AttendanceIndex.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\AttendanceIndexAdmin.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\AttendanceIndexManager.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\CreateAttendanceRequest.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\DeleteAttendance.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\EditAttendance.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\CreateEmployee.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\DeleteEmployee.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\EditEmployee.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\EmployeeDetails.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\EmployeeIndex.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\CreateLeaveRequest.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\DeleteLeaveRequest.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\EditLeaveRequest.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\LeaveRequestDetails.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\LeaveRequestIndexAdmin.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\LeaveRequestIndexManager.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\ProjectAllocation\AddAllocateProjectAllocation.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\ProjectAllocation\DeleteProjectAllocationDetails.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\ProjectAllocation\EditProjectAllocationDetails.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\ProjectAllocation\ProjectAllocationDetails.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\ProjectAllocation\ProjectAllocationIndex.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\CreateProject.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\DeleteProject.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\EditProject.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\ProjectDetails.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\ProjectIndex.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\ProjectWorkStation.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorTargetAssemblyInfo.cs
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.Views.pdb
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.csproj.CopyComplete
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ref\ALMS.UI.dll
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.pdb
+C:\Users\hp\Desktop\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.genruntimeconfig.cache
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\appsettings.json
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.API.deps.json
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.API.runtimeconfig.json
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.API.runtimeconfig.dev.json
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.API.exe
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.exe
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.deps.json
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.runtimeconfig.json
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.runtimeconfig.dev.json
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ref\ALMS.UI.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.pdb
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.Views.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.Views.pdb
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.API.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.API.pdb
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.csprojAssemblyReference.cache
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.AssemblyInfoInputs.cache
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.AssemblyInfo.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.csproj.CoreCompileInputs.cache
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorAssemblyInfo.cache
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorAssemblyInfo.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\staticwebassets\ALMS.UI.StaticWebAssets.Manifest.cache
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\staticwebassets\ALMS.UI.StaticWebAssets.xml
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\scopedcss\bundle\ALMS.UI.styles.css
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.TagHelpers.input.cache
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.TagHelpers.output.cache
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorCoreGenerate.cache
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\AdminPortal.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\GEmployeePortal.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\ManagerPortal.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\ProjectLogin.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\AttendanceDetails.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\AttendanceIndex.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\AttendanceIndexAdmin.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\AttendanceIndexManager.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\CreateAttendanceRequest.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\DeleteAttendance.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\EditAttendance.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\CreateEmployee.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\DeleteEmployee.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\EditEmployee.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\EmployeeDetails.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\EmployeeIndex.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\CreateLeaveRequest.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\DeleteLeaveRequest.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\EditLeaveRequest.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\LeaveRequestDetails.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\LeaveRequestIndexAdmin.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\LeaveRequestIndexManager.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\ProjectAllocation\AddAllocateProjectAllocation.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\ProjectAllocation\DeleteProjectAllocationDetails.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\ProjectAllocation\EditProjectAllocationDetails.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\ProjectAllocation\ProjectAllocationDetails.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\ProjectAllocation\ProjectAllocationIndex.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\CreateProject.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\DeleteProject.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\EditProject.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\ProjectDetails.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\ProjectIndex.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\ProjectWorkStation.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorTargetAssemblyInfo.cache
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorTargetAssemblyInfo.cs
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.Views.pdb
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.csproj.CopyComplete
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ref\ALMS.UI.dll
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.pdb
+C:\Users\Shivam Magotra\Downloads\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.genruntimeconfig.cache
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\appsettings.json
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.API.exe
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.exe
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.deps.json
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.runtimeconfig.json
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.runtimeconfig.dev.json
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ref\ALMS.UI.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.pdb
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.Views.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.UI.Views.pdb
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.API.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\bin\Debug\net5.0\ALMS.API.pdb
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.AssemblyInfo.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorAssemblyInfo.cache
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorAssemblyInfo.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\staticwebassets\ALMS.UI.StaticWebAssets.Manifest.cache
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\staticwebassets\ALMS.UI.StaticWebAssets.xml
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\scopedcss\bundle\ALMS.UI.styles.css
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.TagHelpers.input.cache
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.TagHelpers.output.cache
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorCoreGenerate.cache
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\AdminPortal.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\GEmployeePortal.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\ManagerPortal.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Account\ProjectLogin.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\AttendanceDetails.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\AttendanceIndex.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\AttendanceIndexAdmin.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\AttendanceIndexManager.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\CreateAttendanceRequest.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\DeleteAttendance.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\AttendanceRequest\EditAttendance.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\CreateEmployee.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\DeleteEmployee.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\EditEmployee.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\EmployeeDetails.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Employee\EmployeeIndex.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\CreateLeaveRequest.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\DeleteLeaveRequest.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\EditLeaveRequest.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\LeaveRequestDetails.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\LeaveRequestIndexAdmin.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\LeaveRequest\LeaveRequestIndexManager.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\ProjectAllocation\AddAllocateProjectAllocation.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\ProjectAllocation\DeleteProjectAllocationDetails.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\ProjectAllocation\EditProjectAllocationDetails.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\ProjectAllocation\ProjectAllocationDetails.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\ProjectAllocation\ProjectAllocationIndex.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\CreateProject.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\DeleteProject.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\EditProject.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\ProjectDetails.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\ProjectIndex.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Project\ProjectWorkStation.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.RazorTargetAssemblyInfo.cs
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.Views.pdb
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.csproj.CopyComplete
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ref\ALMS.UI.dll
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.pdb
+C:\Users\hp\Desktop\issue\Final\Sprint2\ALMS\ALMS.UI\obj\Debug\net5.0\ALMS.UI.genruntimeconfig.cache

@@ -1,0 +1,51 @@
+﻿@model ALMS.API.Models.TrattendanceDetail
+
+@{
+    ViewData["Title"] = "CreateAttendanceRequest";
+}
+
+<h1>CreateAttendanceRequest</h1>
+
+<h4>TrattendanceDetail</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="CreateAttendanceRequest">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ProjectId" class="control-label"></label>
+                <input asp-for="ProjectId" class="form-control" />
+                <span asp-validation-for="ProjectId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmployeeId" class="control-label"></label>
+                <input asp-for="EmployeeId" class="form-control" />
+                <span asp-validation-for="EmployeeId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AttedanceDate" class="control-label"></label>
+                <input asp-for="AttedanceDate" class="form-control" />
+                <span asp-validation-for="AttedanceDate" class="text-danger"></span>
+            </div>
+            @*<div class="form-group">
+                <label asp-for="StatusUpdateDate" class="control-label"></label>
+                <input asp-for="StatusUpdateDate" class="form-control" />
+                <span asp-validation-for="StatusUpdateDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StatusUpdatedBy" class="control-label"></label>
+                <input asp-for="StatusUpdatedBy" class="form-control" />
+                <span asp-validation-for="StatusUpdatedBy" class="text-danger"></span>
+            </div>*@
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" onClick="window.location= '@Url.Action( "ProjectWorkStation", "Project")'" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

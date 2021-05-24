@@ -1,0 +1,65 @@
+﻿@model ALMS.API.Models.TrleaveRequestDetail
+
+@{
+    ViewData["Title"] = "CreateLeaveRequest";
+}
+
+<h1>CreateLeaveRequest</h1>
+
+<h4>TrleaveRequestDetail</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="CreateLeaveRequest">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="EmployeeId" class="control-label"></label>
+                <input asp-for="EmployeeId" class="form-control" />
+                <span asp-validation-for="EmployeeId" class="text-danger"></span>
+            </div>
+            @*<div class="form-group">
+                <label asp-for="LeavesRemaining" class="control-label"></label>
+                <input asp-for="LeavesRemaining" class="form-control" />
+                <span asp-validation-for="LeavesRemaining" class="text-danger"></span>
+            </div>*@
+            <div class="form-group">
+                <label asp-for="LeaveRequestFrom" class="control-label"></label>
+                <input asp-for="LeaveRequestFrom" class="form-control" />
+                <span asp-validation-for="LeaveRequestFrom" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LeaveRequestTo" class="control-label"></label>
+                <input asp-for="LeaveRequestTo" class="form-control" />
+                <span asp-validation-for="LeaveRequestTo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LeaveDescription" class="control-label"></label>
+                <input asp-for="LeaveDescription" class="form-control" />
+                <span asp-validation-for="LeaveDescription" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LeaveRequestCreatedDate" class="control-label"></label>
+                <input asp-for="LeaveRequestCreatedDate" class="form-control" />
+                <span asp-validation-for="LeaveRequestCreatedDate" class="text-danger"></span>
+            </div>
+            @*<div class="form-group">
+                <label asp-for="LeaveStatusUpdateDate" class="control-label"></label>
+                <input asp-for="LeaveStatusUpdateDate" class="form-control" />
+                <span asp-validation-for="LeaveStatusUpdateDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LeaveStatusUpdatedBy" class="control-label"></label>
+                <input asp-for="LeaveStatusUpdatedBy" class="form-control" />
+                <span asp-validation-for="LeaveStatusUpdatedBy" class="text-danger"></span>
+            </div>*@
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary"  />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

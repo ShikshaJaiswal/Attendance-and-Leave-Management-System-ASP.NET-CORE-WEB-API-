@@ -1,0 +1,84 @@
+﻿@model IEnumerable<ALMS.UI.Models.TrprojectAllocation>
+
+@{
+    ViewData["Title"] = "ProjectAllocationIndex";
+}
+
+<h1>ProjectAllocationIndex</h1>
+
+<p>
+    <a asp-action="AddAllocateProjectAllocation">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.AllocationId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmployeeId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProjectId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreatedBy)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreatedDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UpdatedBy)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UpdatedDate)
+            </th>
+          
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.AllocationId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmployeeId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProjectId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedBy)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UpdatedBy)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UpdatedDate)
+            </td>
+            
+
+            <td>
+                @Html.ActionLink("Edit", "EditProjectAllocationDetails", new {AllocationId = item.AllocationId }) |
+                @Html.ActionLink("Details", "ProjectAllocationDetails", new { AllocationId = item.AllocationId }) |
+                @*@Html.ActionLink("Delete", "DeleteProjectAllocationDetails", new { AllocationId = item.AllocationId })*@
+                @*<a asp-action="EditProjectAllocationDetails" asp-route-id="@item.AllocationId">Edit</a> |
+        <a asp-action="ProjectAllocationDetails" asp-route-id="@item.AllocationId">Details</a> |
+        <a asp-action="DeleteProjectAllocationDetails" asp-route-id="@item.AllocationId">Delete</a>*@
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,213 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!doctype html>
+<html lang="en">
+
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="preconnect" href="https://fonts.gstatic.com/">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;700&amp;family=Open+Sans:wght@400;700&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://preview.colorlib.com/theme/foundation2/fonts/icomoon/style.css">
+    <link rel="stylesheet" href="https://preview.colorlib.com/theme/foundation2/css/tiny-slider.css">
+    <link rel="stylesheet" href="https://preview.colorlib.com/theme/foundation2/css/aos.css">
+
+    <link rel="stylesheet" href="https://preview.colorlib.com/theme/foundation2/css/glightbox.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://preview.colorlib.com/theme/foundation2/css/style.css">
+    <link rel="shortcut icon" href="favicon. ico" type="image/x-icon">
+
+    <title>ALMS</title>
+</head>
+<body>
+    <div class="site-mobile-menu site-navbar-target">
+        <div class="site-mobile-menu-header">
+            <div class="site-mobile-menu-close">
+                <span class="icofont-close js-menu-toggle"></span>
+            </div>
+        </div>
+        <div class="site-mobile-menu-body"></div>
+    </div>
+    <nav class="site-nav mt-3">
+        <div class="container">
+            <div class="site-navigation">
+
+                <a href="@Url.Action("Index","Home")" class="logo m-0 float-start" style="text-decoration:none;"><span class="	glyphicon glyphicon-calendar"></span>  Attendance and Leave Management System</a>
+                <ul class="js-clone-nav d-none d-lg-inline-block text-left site-menu float-end">
+                    <li class="active"><a href="@Url.Action("Index","Home")"><span class="glyphicon glyphicon-home"></span> Home</a></li>
+                    <li>
+                        <a href="@Url.Action("Login","Account")"><span class="glyphicon glyphicon-log-in"></span>  LogIn</a>
+
+
+                    </li>
+                </ul>
+                <a href="@Url.Action("Index","Home")" class="burger ml-auto float-right site-menu-toggle js-menu-toggle d-inline-block d-lg-none light">
+                    <span></span>
+                </a>
+            </div>
+        </div>
+    </nav>
+    <div class="hero">
+        <div class="map">
+            <img src="https://preview.colorlib.com/theme/foundation2/images/world-dotted-map.png" alt="Image" class="img-fluid">
+        </div>
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-7">
+                    <h3 class="heading" data-aos="fade-up" style="margin-top:30%; text-align:center">Welcome to your workstation</h3>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    @*<div class="section section-1">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6 col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="0">
+                        <div class="feature box-shadow d-flex">
+                            <div class="icon">
+
+                            </div>
+                            <div class="text">
+                                <h3 class="heading">Admin</h3>
+                                <p>For Developer use only</p>
+                                <p><a href="#" class="more active dark">Click Here to LogIn <span class="icon-arrow_forward"></span></a></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="100">
+                        <div class="feature box-shadow d-flex">
+                            <div class="icon">
+
+                            </div>
+                            <div class="text">
+                                <h3 class="heading">Manager</h3>
+
+                                <p><a href="@Url.Action("Login","Account")" class="more active dark">Click Here To LogIn <span class="glyphicon glyphicon-log-in"></span></a></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="200">
+                        <div class="feature box-shadow d-flex">
+                            <div class="icon">
+
+                            </div>
+                            <div class="text">
+                                <h3 class="heading">General Employeee</h3>
+
+                                <p><a href="@Url.Action("Login","Account")" class="more active dark">Click Here To LogIn <span class="glyphicon glyphicon-log-in"></span></a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>*@
+
+    <div class="section section-1">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6 col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="0">
+                    <div class="feature box-shadow d-flex">
+                        <div class="icon">
+
+                        </div>
+                        <div class="text">
+                            <h3 class="heading">Admin</h3>
+                            <p>Deals with the following:</p>
+                            <ul>
+                            <li>Project Information</li>
+                            <li>Employee Information</li>
+                            <li>Attendance</li>
+                            <li>Leave Requests</li>                            
+                            </ul>
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="100">
+                    <div class="feature box-shadow d-flex">
+                        <div class="icon">
+
+                        </div>
+                        <div class="text">
+                            <h3 class="heading">Manager</h3>
+                            <p>Deals with the following:</p>
+                            <ul>
+                                <li>Project Information</li>                                
+                                <li>Attendance</li>
+                                <li>Leave Requests</li>
+                                <li>His workstation</li>
+                            </ul>
+                            
+                        </div>
+                </div>
+                    </div>
+                <div class="col-sm-6 col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="200">
+                    <div class="feature box-shadow d-flex">
+                        <div class="icon">
+
+                        </div>
+                        <div class="text">
+                            <h3 class="heading">General Employee</h3>
+                            <ul>                                
+                                <li>Attendance</li>
+                                <li>Leave Requests</li>
+                                <li>His workstation</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+    <div class="site-footer">
+        <div class="container">
+            <div class="row">
+
+                <div>
+                    <h5 style="margin-left:420px">©Attendance and leave management system</h5>
+                </div>
+
+
+
+            </div>
+        </div>
+
+        <div id="overlayer"></div>
+        <div class="loader">
+            <div class="spinner-border text-primary" role="status">
+                <span class="visually-hidden">Loading...</span>
+            </div>
+        </div>
+        <script src="https://preview.colorlib.com/theme/foundation2/js/bootstrap.bundle.min.js"></script>
+        <script src="https://preview.colorlib.com/theme/foundation2/js/tiny-slider.js"></script>
+        <script src="https://preview.colorlib.com/theme/foundation2/js/aos.js"></script>
+        <script src="https://preview.colorlib.com/theme/foundation2/js/glightbox.min.js"></script>
+        <script src="https://preview.colorlib.com/theme/foundation2/js/navbar.js"></script>
+        <script src="https://preview.colorlib.com/theme/foundation2/js/counter.js"></script>
+        <script src="https://preview.colorlib.com/theme/foundation2/js/custom.js"></script>
+
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() { dataLayer.push(arguments); }
+            gtag('js', new Date());
+
+            gtag('config', 'UA-23581568-13');
+        </script>
+    </div>
+</body>
+
+</html>

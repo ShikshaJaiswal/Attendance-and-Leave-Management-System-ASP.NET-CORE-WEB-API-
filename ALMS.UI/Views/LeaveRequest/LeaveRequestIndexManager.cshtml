@@ -1,0 +1,71 @@
+﻿@model IEnumerable<ALMS.UI.Models.TrleaveRequestDetail>
+
+@{
+    ViewData["Title"] = "LeaveRequestIndexManager";
+}
+
+<h1>Leave Request Index</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.LeaveRequestId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmployeeId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LeaveDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LeavesRemaining)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LeaveRequestFrom)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LeaveRequestTo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LeaveStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LeaveRequestId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EmployeeId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LeaveDescription)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LeavesRemaining)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LeaveRequestFrom)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LeaveRequestTo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LeaveStatus)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "EditLeaveRequest", new { LeaveRequestId = item.LeaveRequestId })
+                    @*@Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                        @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |*@
+                    @*@Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })*@
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

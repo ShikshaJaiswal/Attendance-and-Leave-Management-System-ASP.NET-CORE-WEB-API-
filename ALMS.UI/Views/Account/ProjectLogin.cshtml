@@ -1,0 +1,37 @@
+﻿@model ALMS.API.Models.MsProjectLoginDetail
+
+@{
+    ViewData["Title"] = "ProjectLogin";
+}
+
+<h1>ProjectLogin</h1>
+
+<h4>MsProjectLoginDetail</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="ProjectLogin">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ProjectId" class="control-label"></label>
+                <input asp-for="ProjectId" class="form-control" />
+                <span asp-validation-for="ProjectId" class="text-danger" hidden></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmployeeId" class="control-label"></label>
+                <input asp-for="EmployeeId" class="form-control" />
+                <span asp-validation-for="EmployeeId" class="text-danger" hidden></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProjectPassword" class="control-label"></label>
+                <input asp-for="ProjectPassword" class="form-control" />
+                <span asp-validation-for="ProjectPassword" class="text-danger" hidden></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Login" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+

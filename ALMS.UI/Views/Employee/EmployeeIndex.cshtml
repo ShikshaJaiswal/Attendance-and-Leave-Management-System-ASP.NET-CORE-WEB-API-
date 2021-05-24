@@ -1,0 +1,126 @@
+﻿@model IEnumerable<ALMS.UI.Models.MsemployeeDetail>
+
+@{
+    ViewData["Title"] = "EmployeeIndex";
+}
+
+<h1>EmployeeIndex</h1>
+
+<p>
+    <a asp-action="CreateEmployee">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.EmployeeId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmployeeName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmployeeDob)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmployeeAge)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmployeePhoneNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmployeeEmailId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmployeeAddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmployeeDesignation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ManagerId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreatedBy)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreatedDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UpdatedBy)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UpdatedDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DeletedBy)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DeletedDate)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EmployeeId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EmployeeName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EmployeeDob)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EmployeeAge)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EmployeePhoneNumber)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EmployeeEmailId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EmployeeAddress)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EmployeeDesignation)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ManagerId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Status)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CreatedBy)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CreatedDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UpdatedBy)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UpdatedDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DeletedBy)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DeletedDate)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "EditEmployee", new { EmployeeId = item.EmployeeId }) |
+                    @Html.ActionLink("Details", "EmployeeDetails", new { EmployeeId = item.EmployeeId }) |
+                    @*@Html.ActionLink("Delete", "DeleteEmployee", new { EmployeeId = item.EmployeeId })*@
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

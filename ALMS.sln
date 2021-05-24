@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ALMS.API", "ALMS.API\ALMS.API.csproj", "{07A71D44-7887-4373-ACA6-4BA0387F21DE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ALMS.UI", "ALMS.UI\ALMS.UI.csproj", "{F24EABD9-913E-47EF-A19F-063D84D9DB10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALMS.TEST", "ALMS.TEST\ALMS.TEST.csproj", "{2A52A78C-2D14-489E-A280-8D8A82AF5F65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07A71D44-7887-4373-ACA6-4BA0387F21DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07A71D44-7887-4373-ACA6-4BA0387F21DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07A71D44-7887-4373-ACA6-4BA0387F21DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07A71D44-7887-4373-ACA6-4BA0387F21DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F24EABD9-913E-47EF-A19F-063D84D9DB10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24EABD9-913E-47EF-A19F-063D84D9DB10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F24EABD9-913E-47EF-A19F-063D84D9DB10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F24EABD9-913E-47EF-A19F-063D84D9DB10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A52A78C-2D14-489E-A280-8D8A82AF5F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A52A78C-2D14-489E-A280-8D8A82AF5F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A52A78C-2D14-489E-A280-8D8A82AF5F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A52A78C-2D14-489E-A280-8D8A82AF5F65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FA72010-2C8B-4F39-B617-468559DD244F}
+	EndGlobalSection
+EndGlobal

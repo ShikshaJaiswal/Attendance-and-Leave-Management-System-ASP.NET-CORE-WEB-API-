@@ -1,0 +1,87 @@
+﻿@model IEnumerable<ALMS.UI.Models.TrattendanceDetail>
+
+@{
+    ViewData["Title"] = "AttendanceIndex";
+}
+
+<center>
+    <h1>
+        Manager Portal
+    </h1>
+    <h2>Attendance Records</h2>
+    <hr />
+
+
+
+    @using (Html.BeginForm("Index", "GetAllAttendance", FormMethod.Post))
+    {
+        <span>Start Date :</span>
+        <input type="date" name="startdate" />
+        <span>End Date :</span>
+        <input type="date" name="enddate" />
+        <input type="submit" value="Get Records Between Dates" />
+        
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.AttendanceId)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.ProjectId)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.EmployeeId)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.AttedanceDate)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.AttendanceStatus)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.StatusUpdateDate)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.StatusUpdatedBy)
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.AttendanceId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ProjectId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.EmployeeId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.AttedanceDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.AttendanceStatus)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.StatusUpdateDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.StatusUpdatedBy)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "EditAttendance", new { AttendanceId = item.AttendanceId }) 
+                       ]
+                    </td>
+
+                </tr>
+                }
+            </tbody>
+        </table>
+    }
+</center>>
